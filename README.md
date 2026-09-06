@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.com/api?type=waving&color=0:0D0221,100:FF2E9F&height=200&section=header&text=Marisella%20Mendoza&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%40%20UT%20Dallas&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,100:FF2E9F&height=200&section=header&text=Marisella%20Mendoza&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%40%20UT%20Dallas&descAlignY=55&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=FF2E9F&center=true&vCenter=true&width=520&lines=Building+systems+from+the+socket+up;React+Native+%7C+Python+%7C+C%2B%2B;Always+shipping+something+new)](https://git.io/typing-svg)
 
@@ -21,34 +21,24 @@
 ### About Me
 - Senior at UT Dallas studying Computer Science, graduating **December 2026**
 - Currently building an **event-driven HTTP server & reverse proxy** in Python
-- Also working on **Haptic Harmony** — translating music into haptic feedback patterns
+- Also working on **Haptic Harmony** translating music into haptic feedback patterns
 - Led a 4-person team to a completed project at **HackUTD**
 
 <br/>
 
 ### Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,java,python,c,react,git,github,linux&theme=dark">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,c,react,git,github,linux&theme=light">
-</picture>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,c,react,git,github,linux&theme=dark" />
+</div>
 
-<br/>
 <br/>
 
 ### GitHub Stats
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MarisellaM&show_icons=true&hide_border=true&title_color=FF2E9F&text_color=ffffff&icon_color=FF2E9F&bg_color=0D0221">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarisellaM&show_icons=true&hide_border=true&title_color=FF2E9F&text_color=333333&icon_color=FF2E9F&bg_color=ffffff">
-</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MarisellaM&layout=compact&hide_border=true&title_color=FF2E9F&text_color=ffffff&bg_color=0D0221">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarisellaM&layout=compact&hide_border=true&title_color=FF2E9F&text_color=333333&bg_color=ffffff">
-</picture>
 
 </div>
 
@@ -77,13 +67,13 @@
 <img src="https://img.shields.io/badge/Chor.us-FF2E9F?style=for-the-badge&logo=javascript&logoColor=white" />
 </a>
 <a href="https://github.com/MarisellaM/Haptic-Harmony">
-<img src="https://img.shields.io/badge/Haptic%20Harmony-FF2E9F?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Haptic%20Harmony-FF2E9F?style=for-the-badge&logo=soundcloud&logoColor=white" />
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.com/api?type=waving&color=0:FF2E9F,100:0D0221&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E9F,100:0D0221&height=100&section=footer" width="100%"/>
 
 </div>
