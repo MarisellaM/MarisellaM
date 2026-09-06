@@ -35,21 +35,11 @@
 <br/>
 
 ### GitHub Stats
-
-<div align="center">
-
-
+## Work in progress... :)
+<br/>
 
 </div>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=MarisellaM&hide_border=true&background=0D0221&stroke=FF2E9F&ring=FF2E9F&fire=FF2E9F&currStreakLabel=FF2E9F&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff">
-  <img src="https://streak-stats.demolab.com/?user=MarisellaM&hide_border=true&background=ffffff&stroke=FF2E9F&ring=FF2E9F&fire=FF2E9F&currStreakLabel=FF2E9F&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=333333">
-</picture>
-
-</div>
 
 <br/>
 
